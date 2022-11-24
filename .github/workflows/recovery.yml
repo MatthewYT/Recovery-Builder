@@ -15,7 +15,7 @@ on:
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-10.0-deprecated
   DEVICE: T99621AA1
-  DT_LINK: https://github.com/twrpdtgen/android_device_hmd_T99621AA1/tree/full_T99621AA1-user-9-PPR1.180610.011-eng.cibuil.20200227.022523-release-keys
+  DT_LINK: https://github.com/MatthewYT/android_device_hmd_T99621AA1
   DT_PATH: device/nokia/T99621AA1
   TARGET: recoveryimage
   TZ: Asia/manila
